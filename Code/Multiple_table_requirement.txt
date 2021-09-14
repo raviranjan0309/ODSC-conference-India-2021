@@ -1,5 +1,0 @@
-numpy
-pandas
-random2
-more-itertools
-argparse
